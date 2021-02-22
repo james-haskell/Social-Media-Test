@@ -1,11 +1,4 @@
-<p align="center"><a href="http://hs.test" target="_blank"><img src="https://st2.depositphotos.com/5943796/11381/v/950/depositphotos_113815474-stock-illustration-initial-letter-hs-green-swoosh.jpg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"><a href="http://hs.test" target="_blank"><img src="https://media1.thehungryjpeg.com/thumbs2/ori_3657520_kl974ctx28mq7db5oxw3cpfbhinn1k24r7idyo10_monogram-hs-logo-design.jpg" width="400"></a></p>
 
 ## About Laravel
 
