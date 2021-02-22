@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://st2.depositphotos.com/5943796/11381/v/950/depositphotos_113815474-stock-illustration-initial-letter-hs-green-swoosh.jpg" width="400"></a></p>
+<p align="center"><a href="http://hs.test" target="_blank"><img src="https://st2.depositphotos.com/5943796/11381/v/950/depositphotos_113815474-stock-illustration-initial-letter-hs-green-swoosh.jpg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
